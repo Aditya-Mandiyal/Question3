@@ -14,6 +14,6 @@ public class FunctionalInterface implements massage{
     }  
     public static void main(String[] args) {  
         FunctionalInterface fie = new FunctionalInterface();  
-        fie.massageFunction("Hello Aditya");  
+        fie.massageFunction("Hello ARUN KUMAR");  
     }  
 } 
