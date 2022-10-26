@@ -11,6 +11,7 @@ public class StringJoinerDemo {
         names.add("Arjun");  
         names.add("Deepak");  
         names.add("Ronit");  
+        names.add("ARUN KUMAR");
                   
         System.out.println(names);  
     }  
